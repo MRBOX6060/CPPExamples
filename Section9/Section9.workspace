@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="No"/>
+  <Project Name="Temperatures" Path="Temperatures/Temperatures.project" Active="No"/>
+  <Project Name="String" Path="String/String.project" Active="No"/>
+  <Project Name="ChallengeSection10" Path="ChallengeSection10/ChallengeSection10.project" Active="No"/>
+  <Project Name="cmath" Path="cmath/cmath.project" Active="No"/>
+  <Project Name="Function_DefaultArgument" Path="Function_DefaultArgument/Function_DefaultArgument.project" Active="No"/>
+  <Project Name="PassingArraysToFunction" Path="PassingArraysToFunction/PassingArraysToFunction.project" Active="No"/>
+  <Project Name="Section11Challenge" Path="Section11Challenge/Section11Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+      <Project Name="Temperatures" ConfigName="Debug"/>
+      <Project Name="String" ConfigName="Debug"/>
+      <Project Name="ChallengeSection10" ConfigName="Debug"/>
+      <Project Name="cmath" ConfigName="Debug"/>
+      <Project Name="Function_DefaultArgument" ConfigName="Debug"/>
+      <Project Name="PassingArraysToFunction" ConfigName="Debug"/>
+      <Project Name="Section11Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+      <Project Name="Temperatures" ConfigName="Release"/>
+      <Project Name="String" ConfigName="Release"/>
+      <Project Name="ChallengeSection10" ConfigName="Release"/>
+      <Project Name="cmath" ConfigName="Release"/>
+      <Project Name="Function_DefaultArgument" ConfigName="Release"/>
+      <Project Name="PassingArraysToFunction" ConfigName="Release"/>
+      <Project Name="Section11Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

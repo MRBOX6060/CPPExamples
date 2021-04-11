@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section14" Database="" Version="10000">
+  <Project Name="Mystring_Start" Path="Mystring_Start/Mystring_Start.project" Active="No"/>
+  <Project Name="CodeLearnIO" Path="../CodeLearnIO/CodeLearnIO.project" Active="No"/>
+  <Project Name="OpenClosePrinciple" Path="../DesignPattern/OpenClosePrinciple/OpenClosePrinciple.project" Active="No"/>
+  <Project Name="Test_QAVerify" Path="../Test_QAVerify/Test_QAVerify.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Mystring_Start" ConfigName="Debug"/>
+      <Project Name="CodeLearnIO" ConfigName="Debug"/>
+      <Project Name="OpenClosePrinciple" ConfigName="Debug"/>
+      <Project Name="Test_QAVerify" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Mystring_Start" ConfigName="Release"/>
+      <Project Name="CodeLearnIO" ConfigName="Release"/>
+      <Project Name="OpenClosePrinciple" ConfigName="Release"/>
+      <Project Name="Test_QAVerify" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

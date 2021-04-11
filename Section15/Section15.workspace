@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section15" Database="" Version="10000">
+  <Project Name="DerivingOutFirstClass" Path="DerivingOutFirstClass/DerivingOutFirstClass.project" Active="No"/>
+  <Project Name="ProtectedMemberClassAccess" Path="ProtectedMemberClassAccess/ProtectedMemberClassAccess.project" Active="No"/>
+  <Project Name="ConstructorAndDestructor" Path="ConstructorAndDestructor/ConstructorAndDestructor.project" Active="No"/>
+  <Project Name="ChallangeSection" Path="ChallangeSection/ChallangeSection.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingOutFirstClass" ConfigName="Debug"/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Debug"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Debug"/>
+      <Project Name="ChallangeSection" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DerivingOutFirstClass" ConfigName="Release"/>
+      <Project Name="ProtectedMemberClassAccess" ConfigName="Release"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Release"/>
+      <Project Name="ChallangeSection" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

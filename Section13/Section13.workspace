@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section13" Database="" Version="10000">
+  <Project Name="AccessingClassMenbers" Path="AccessingClassMenbers/AccessingClassMenbers.project" Active="No"/>
+  <Project Name="DeclareClassAndObject" Path="DeclareClassAndObject/DeclareClassAndObject.project" Active="No"/>
+  <Project Name="ImplementingMethods1" Path="ImplementingMethods1/ImplementingMethods1.project" Active="No"/>
+  <Project Name="ImplementingMethods2" Path="ImplementingMethods2/ImplementingMethods2.project" Active="No"/>
+  <Project Name="ConstructorAndDestructor" Path="ConstructorAndDestructor/ConstructorAndDestructor.project" Active="No"/>
+  <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="No"/>
+  <Project Name="ConstructorInitialazationList" Path="ConstructorInitialazationList/ConstructorInitialazationList.project" Active="No"/>
+  <Project Name="DelegatingConstructor" Path="DelegatingConstructor/DelegatingConstructor.project" Active="No"/>
+  <Project Name="DefaultConstructorParameters" Path="DefaultConstructorParameters/DefaultConstructorParameters.project" Active="No"/>
+  <Project Name="ShallowCopy" Path="ShallowCopy/ShallowCopy.project" Active="No"/>
+  <Project Name="DeepCopy" Path="DeepCopy/DeepCopy.project" Active="No"/>
+  <Project Name="MoveConstructor" Path="MoveConstructor/MoveConstructor.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="TestReference" Path="TestReference/TestReference.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassAndObject" ConfigName="Debug"/>
+      <Project Name="AccessingClassMenbers" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods1" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods2" ConfigName="Debug"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitialazationList" ConfigName="Debug"/>
+      <Project Name="DelegatingConstructor" ConfigName="Debug"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="ShallowCopy" ConfigName="Debug"/>
+      <Project Name="DeepCopy" ConfigName="Debug"/>
+      <Project Name="MoveConstructor" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="TestReference" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclareClassAndObject" ConfigName="Release"/>
+      <Project Name="AccessingClassMenbers" ConfigName="Release"/>
+      <Project Name="ImplementingMethods1" ConfigName="Release"/>
+      <Project Name="ImplementingMethods2" ConfigName="Release"/>
+      <Project Name="ConstructorAndDestructor" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitialazationList" ConfigName="Release"/>
+      <Project Name="DelegatingConstructor" ConfigName="Release"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="ShallowCopy" ConfigName="Release"/>
+      <Project Name="DeepCopy" ConfigName="Release"/>
+      <Project Name="MoveConstructor" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="TestReference" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

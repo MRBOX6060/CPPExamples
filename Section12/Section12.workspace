@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section12" Database="" Version="10000">
+  <Project Name="DeclarePointer" Path="DeclarePointer/DeclarePointer.project" Active="No"/>
+  <Project Name="Section12" Path="Section12/Section12.project" Active="No"/>
+  <Project Name="L_R_values" Path="L_R_values/L_R_values.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="No"/>
+  <Project Name="Template_Class" Path="Template_Class/Template_Class.project" Active="No"/>
+  <Project Name="Exceptions" Path="Exceptions/Exceptions.project" Active="Yes"/>
+  <Project Name="PassingPointerToFunction" Path="PassingPointerToFunction/PassingPointerToFunction.project" Active="No"/>
+  <Project Name="TemplateFunc" Path="TemplateFunc/TemplateFunc.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclarePointer" ConfigName="Debug"/>
+      <Project Name="Section12" ConfigName="Debug"/>
+      <Project Name="L_R_values" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+      <Project Name="Template_Class" ConfigName="Debug"/>
+      <Project Name="Exceptions" ConfigName="Debug"/>
+      <Project Name="PassingPointerToFunction" ConfigName="Debug"/>
+      <Project Name="TemplateFunc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclarePointer" ConfigName="Release"/>
+      <Project Name="Section12" ConfigName="Release"/>
+      <Project Name="L_R_values" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+      <Project Name="Template_Class" ConfigName="Release"/>
+      <Project Name="Exceptions" ConfigName="Release"/>
+      <Project Name="PassingPointerToFunction" ConfigName="Release"/>
+      <Project Name="TemplateFunc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

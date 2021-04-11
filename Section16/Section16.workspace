@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section16" Database="" Version="10000">
+  <Project Name="VirtualFunction" Path="VirtualFunction/VirtualFunction.project" Active="Yes"/>
+  <Project Name="BaseClassReference" Path="BaseClassReference/BaseClassReference.project" Active="No"/>
+  <Project Name="PureVirtualFunction" Path="PureVirtualFunction/PureVirtualFunction.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="VirtualFunction" ConfigName="Debug"/>
+      <Project Name="BaseClassReference" ConfigName="Debug"/>
+      <Project Name="PureVirtualFunction" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="VirtualFunction" ConfigName="Release"/>
+      <Project Name="BaseClassReference" ConfigName="Release"/>
+      <Project Name="PureVirtualFunction" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
